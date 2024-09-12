@@ -2022,6 +2022,16 @@ body.mobile-nav-active #mobile-nav-toggle {
         margin-bottom: 30px
     }
 }
+.cl{
+    width: 360px;
+    height: 380px;
+    border-radius: 20px;
+}
+.content-ima{
+    border-radius: 20px;
+}
+
+
 .gallery-area .single-gallery {
     margin-bottom: 30px
 }
