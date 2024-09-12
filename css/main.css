@@ -2016,6 +2016,9 @@ body.mobile-nav-active #mobile-nav-toggle {
     .single-service {
         padding: 22px
     }
+    .cl{
+        padding-top: 15px;
+    }
 }
 @media (max-width: 991px) {
     .single-service {
