@@ -2758,6 +2758,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   .contact_us_2 .container-block.form-wrapper {
     background-color: white;
     max-width: 500px;
+    max-height: 800px;
     text-align: center;
     padding-top: 50px;
     padding-right: 40px;
