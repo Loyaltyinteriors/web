@@ -2114,7 +2114,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     left: 50%;
     opacity: 1
 }
-.gallery-area .single-gallery .content-image {
+.gallery-area .single-gallery .content-image .content-ima{
     width: 100%
 }
 .gallery-area .single-gallery .content-details p {
