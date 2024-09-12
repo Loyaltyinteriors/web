@@ -1751,14 +1751,15 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu, .nav-menu * {
     margin: 0;
     padding: 0;
-    list-style: none
+    list-style: none;
+    
 }
 .nav-menu ul {
     position: absolute;
     display: none;
     top: 100%;
     right: 0;
-    z-index: 99
+    z-index: 99;
 }
 .nav-menu li {
     position: relative;
