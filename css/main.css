@@ -1775,6 +1775,12 @@ h1, h2, h3, h4, h5, h6 {
     top: 0;
     right: 100%
 }
+/* .lo{
+    color: white;
+    font-size: large;
+    padding-top: 15px;
+    font-weight: 700;
+} */
 .nav-menu ul li {
     min-width: 180px
 }
