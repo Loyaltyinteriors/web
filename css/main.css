@@ -2001,7 +2001,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     transition: all 0.3s ease 0s
 }
 .primary-btn:hover {
-    color: #fff
+    color: #c6b069
 }
 .primary-btn:hover span {
     color: #fff;
@@ -2858,7 +2858,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-attachment: initial;
     background-origin: initial;
     background-clip: initial;
-    background-color: #cc9e80;
+    background-color: #c6b069;
   }
   
   .contact_us_2 .responsive-container-block {
@@ -3011,7 +3011,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   
   .contact_us_2 .submit-btn {
     width: 50%;
-    background-color: #815f38;
+    background-color: #c6b069;
     height: 60px;
     font-size: 20px;
     font-weight: 700;
