@@ -1737,7 +1737,7 @@ h1, h2, h3, h4, h5, h6 {
     border-left: 4px solid #c6b069
 }
 #header #logo img {
-    padding: 0;
+    padding: 0px;
     margin: 0
 }
 @media (max-width: 768px) {
@@ -1746,20 +1746,13 @@ h1, h2, h3, h4, h5, h6 {
     }
     #header #logo img {
         
-        
-        max-height: 70px;
+        max-height: 50px;
         max-width:130px;
     }
-   
 }
-@media (max-width: 768px) {
-    .nav-menu {
-      margin-top: 20px; /* adjust the value as needed */
-    }
-  }
 .nav-menu, .nav-menu * {
     margin: 0;
-    padding-top : 20px;
+    padding: 0;
     list-style: none;
     
 }
@@ -1872,7 +1865,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (max-width: 960px) {
     #mobile-nav-toggle {
-        display: inline
+        display: inline;
+        padding-top: 20px;
     }
     #nav-menu-container {
         display: none
