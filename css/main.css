@@ -1737,7 +1737,7 @@ h1, h2, h3, h4, h5, h6 {
     border-left: 4px solid #c6b069
 }
 #header #logo img {
-    padding: 0;
+    padding: 0px;
     margin: 0
 }
 @media (max-width: 768px) {
@@ -1745,8 +1745,9 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 28px
     }
     #header #logo img {
-        max-height: 40px;
-        max-width:100px;
+        
+        max-height: 60px;
+        max-width:130px;
     }
 }
 .nav-menu, .nav-menu * {
@@ -1864,7 +1865,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (max-width: 960px) {
     #mobile-nav-toggle {
-        display: inline
+        display: inline;
+        padding-top: 20px;
     }
     #nav-menu-container {
         display: none
@@ -1999,7 +2001,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     transition: all 0.3s ease 0s
 }
 .primary-btn:hover {
-    color: #fff
+    color: #c6b069
 }
 .primary-btn:hover span {
     color: #fff;
@@ -2856,7 +2858,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-attachment: initial;
     background-origin: initial;
     background-clip: initial;
-    background-color: #cc9e80;
+    background-color: #c6b069;
   }
   
   .contact_us_2 .responsive-container-block {
@@ -3009,7 +3011,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   
   .contact_us_2 .submit-btn {
     width: 50%;
-    background-color: #815f38;
+    background-color: #c6b069;
     height: 60px;
     font-size: 20px;
     font-weight: 700;
