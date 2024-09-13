@@ -1745,13 +1745,21 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 28px
     }
     #header #logo img {
-        max-height: 40px;
-        max-width:100px;
+        
+        
+        max-height: 50px;
+        max-width:110px;
     }
+   
 }
+@media (max-width: 768px) {
+    .nav-menu {
+      margin-top: 20px; /* adjust the value as needed */
+    }
+  }
 .nav-menu, .nav-menu * {
     margin: 0;
-    padding: 0;
+    padding-top : 20px;
     list-style: none;
     
 }
